@@ -25,10 +25,9 @@ This project was created to practice front-end development fundamentals and to s
 ## 🚀 Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/calculator-app.git
-
-Open index.html in your browser.
-
+   git clone https://aksham-rana.github.io/Calculator-App/
+  and just run it
+  
 That’s it — no build tools or dependencies required.
 
 Preview 
