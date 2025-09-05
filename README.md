@@ -31,9 +31,9 @@ Open index.html in your browser.
 
 That’s it — no build tools or dependencies required.
 
+Preview 
 
-
-(Add your own screenshot here once you run the app)
+![image alt](https://github.com/Aksham-rana/Calculator-App/blob/main/Screenshot%202025-09-05%20093522.png?raw=true)
 
 🛠️ Technologies Used
 
