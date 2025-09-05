@@ -44,12 +44,12 @@ Vanilla JavaScript (ES6+)
 
 📖 Learning Outcomes
 
-While working on this project I practiced:
+1. While working on this project I practiced:
 
-Writing clean and reusable JavaScript code
+2. Writing clean and reusable JavaScript code
 
-Handling user input and keyboard events
+3. Handling user input and keyboard events
 
-Designing a responsive UI with modern CSS
+4. Designing a responsive UI with modern CSS
 
-Managing state and edge cases in a small app
+5. Managing state and edge cases in a small app
